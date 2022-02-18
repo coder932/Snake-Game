@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(0, 114, 122);
+    font-family: arial;
+}
+li, a{
+	color: rgb(30, 255, 0);
+}
+b{
+    color: rgb(96, 0, 185);
+}
